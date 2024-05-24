@@ -1,4 +1,4 @@
-[![Header](https://github.com/NeVajnoKak/beginner-aspNetCore/blob/main/assets/img/header.png)](https://www.youtube.com/watch?v=HLHJFICvytI)
+[![Header](https://github.com/NeVajnoKak/Beginner-GoLang/blob/main/assets/golang.png)](https://www.youtube.com/watch?v=HLHJFICvytI)
 
 
 # Go lang , thats my beginner part
