@@ -22,7 +22,7 @@
 
 ### Database
 
-<!-- ![MySql](https://img.shields.io/badge/MySql-01060D?style=for-the-badge&logo=mysql) -->
+![MySql](https://img.shields.io/badge/MySql-01060D?style=for-the-badge&logo=mysql)
 
 ### Library
 
