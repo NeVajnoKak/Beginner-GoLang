@@ -1,7 +1,7 @@
 [![Header](https://github.com/NeVajnoKak/beginner-aspNetCore/blob/main/assets/img/header.png)](https://www.youtube.com/watch?v=HLHJFICvytI)
 
 
-# ASP Net Core - Beginner lvl project
+# Go lang , thats my beginner part
 
 ### Laptop
 ![MacBook](https://img.shields.io/badge/Macbook-01060D?style=for-the-badge&logo=Apple&logoColor=#000000)
@@ -10,28 +10,27 @@
 ### Languages and Tools
 
 
-![C#](https://img.shields.io/badge/C%23-01060D?style=for-the-badge&logo=csharp)
-![JavaScript](https://img.shields.io/badge/JavaScript-01060D?style=for-the-badge&logo=JavaScript)
+![Go](https://img.shields.io/badge/Go-01060D?style=for-the-badge&logo=go)
 
 
 
 ### Frameworks
 
-![ASP Net Core](https://img.shields.io/badge/ASP&nbsp;Net&nbsp;Core-01060D?style=for-the-badge&logo=dotnet)
-![Vue](https://img.shields.io/badge/Vue-01060D?style=for-the-badge&logo=vuedotjs)
+<!-- ![ASP Net Core](https://img.shields.io/badge/ASP&nbsp;Net&nbsp;Core-01060D?style=for-the-badge&logo=dotnet)
+![Vue](https://img.shields.io/badge/Vue-01060D?style=for-the-badge&logo=vuedotjs) -->
 
 
 ### Database
 
-![MySql](https://img.shields.io/badge/MySql-01060D?style=for-the-badge&logo=mysql)
+<!-- ![MySql](https://img.shields.io/badge/MySql-01060D?style=for-the-badge&logo=mysql) -->
 
 ### Library
 
-![Vuex](https://img.shields.io/badge/Vuex-01060D?style=for-the-badge)
+<!-- ![Vuex](https://img.shields.io/badge/Vuex-01060D?style=for-the-badge) -->
 
 ### ORM
 
-![EntityFramework](https://img.shields.io/badge/Entity&nbsp;Framework-01060D?style=for-the-badge)
+<!-- ![EntityFramework](https://img.shields.io/badge/Entity&nbsp;Framework-01060D?style=for-the-badge) -->
 
 ## Follow me
 
