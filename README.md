@@ -23,6 +23,8 @@
 ### Database
 
 ![MySql](https://img.shields.io/badge/MySql-01060D?style=for-the-badge&logo=mysql)
+![Postgres](https://img.shields.io/badge/postgre-01060D?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-01060D?style=for-the-badge&logo=MongoDB)
 
 ### Library
 
